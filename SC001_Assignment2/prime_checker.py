@@ -79,7 +79,5 @@ def main():
 					print(str(n) + " is not a prime number.")
 
 
-# DO NOT EDIT CODE BELOW THIS LINE #
-
 if __name__ == "__main__":
 	main()

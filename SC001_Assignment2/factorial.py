@@ -57,8 +57,5 @@ def main():
 				print("Answer: " + str(answer))
 
 
-# DO NOT EDIT CODE BELOW THIS LINE #
-
-
 if __name__ == '__main__':
 	main()

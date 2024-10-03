@@ -45,7 +45,5 @@ def main():
     print("It took " + str(step) + " steps to reach 1")
 
 
-# DO NOT EDIT CODE BELOW THIS LINE #
-
 if __name__ == "__main__":
     main()

@@ -1,6 +1,6 @@
 """
 File: extension1_MidpointKarel.py
-Name:李名翔 Thomas
+Name: 李名翔 Thomas
 ----------------------------
 When you finish writing it, MidpointKarel should
 leave a beeper on the corner closest to the center of 1st Street
@@ -224,9 +224,6 @@ def turn_west():
     # Karel keeps turn left until facing west
     while not facing_west():
         turn_left()
-
-
-# DO NOT EDIT CODE BELOW THIS LINE #
 
 
 if __name__ == '__main__':

@@ -76,7 +76,5 @@ def main():
 		print(str(cold_days) + " cold day(s)")
 
 
-# DO NOT EDIT CODE BELOW THIS LINE #
-
 if __name__ == "__main__":
 	main()

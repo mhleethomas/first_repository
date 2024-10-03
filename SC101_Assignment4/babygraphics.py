@@ -58,8 +58,6 @@ def draw_fixed_lines(canvas):
 
     canvas.delete('all')            # delete all existing lines from the canvas
 
-    # ----- Write your code below this line ----- #
-
     # create 2 horizontal lines at top & bottom
     canvas.create_line(GRAPH_MARGIN_SIZE, GRAPH_MARGIN_SIZE,
                        CANVAS_WIDTH - GRAPH_MARGIN_SIZE, GRAPH_MARGIN_SIZE)
@@ -95,8 +93,6 @@ def draw_names(canvas, name_data, lookup_names):
     """
 
     draw_fixed_lines(canvas)        # draw the fixed background grid
-
-    # ----- Write your code below this line ----- #
 
     # for loop scope: handle every name which user wants to look up
     for name_index in range(len(lookup_names)):

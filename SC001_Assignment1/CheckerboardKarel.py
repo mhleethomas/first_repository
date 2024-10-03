@@ -46,10 +46,6 @@ def main():
         else:
             fill_a_col()
 
-    """
-    2024/ 04/ 25 revised
-    """
-
 
 def fill_a_row():
     """
@@ -113,7 +109,6 @@ def fill_a_col():
             move()
 
 
-
 def turn_right():
     # Karel turns left 3 times
     for i in range(3):
@@ -125,8 +120,6 @@ def turn_around():
     for i in range(2):
         turn_left()
 
-
-# DO NOT EDIT CODE BELOW THIS LINE #
 
 if __name__ == '__main__':
     execute_karel_task(main)

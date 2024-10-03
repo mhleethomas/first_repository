@@ -46,7 +46,5 @@ def main():
     highlighted_fire.show()
 
 
-# DO NOT EDIT CODE BELOW THIS LINE #
-
 if __name__ == '__main__':
     main()

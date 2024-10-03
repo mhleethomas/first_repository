@@ -56,7 +56,5 @@ def match_dna(long_sequence, short_sequence):
     return max_score_sequence
 
 
-# DO NOT EDIT CODE BELOW THIS LINE #
-
 if __name__ == '__main__':
     main()
