@@ -53,4 +53,4 @@ To run any of the programs, simply clone this repository to your local machine a
 Make sure to have all necessary dependencies installed.
 
 ```bash
-git clone <https://github.com/mhleethomas/first_repository.git>
+git clone https://github.com/mhleethomas/first_repository.git
